@@ -14,6 +14,10 @@ Android, iOS.
 * Custom SearchBar.
 * [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 
+### More information:
+- Source code: [https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design](https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
+
 ## [Chased Home UI Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
 
 Xamarin.Forms UI sample.
