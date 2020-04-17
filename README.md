@@ -4,7 +4,7 @@
 
 Xamarin.Forms UI sample.
 
-<img src="Images/chased-home-ui-design.png" Width="220" />
+<img src="Images/xamarinPhotoStock.png" Width="600" />
 
 ### Platforms
 
@@ -17,8 +17,8 @@ Android, iOS.
 ## [Chased Home UI Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
 
 Xamarin.Forms UI sample.
+<img src="Images/chased-home-ui-design.png" Width="220" />
 
-<img src="Images/xamarinPhotoStock.png" Width="600" />
 
 ### Platforms
 
