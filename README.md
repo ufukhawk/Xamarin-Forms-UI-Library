@@ -4,7 +4,7 @@
 
 Xamarin.Forms goodlooking UI sample.
 
-<img src="images/chased-home-ui-design.png" Width="220" />
+<img src="Images/chased-home-ui-design.png" Width="220" />
 
 ### Platforms
 
@@ -22,7 +22,7 @@ Android, iOS.
 
 Xamarin.Forms Call Screen UI.
 
-<img src="images/xamcall.gif" Width="240" />
+<img src="Images/xamcall.gif" Width="240" />
 
 ### Platforms
 
@@ -40,7 +40,7 @@ Android, iOS.
 
 Xamarin.Forms Login Screen UI.
 
-<img src="images/xamuilogin.png" Width="600" />
+<img src="Images/xamuilogin.png" Width="600" />
 
 ### Platforms
 
