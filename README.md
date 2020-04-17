@@ -1,10 +1,24 @@
 # Xamarin-Forms-UI-Library
 
-## [Chased Home UI Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
+## [XamarinForms-PhotoStock-UI-Design](https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design)
 
-Xamarin.Forms goodlooking UI sample.
+Xamarin.Forms UI sample.
 
 <img src="Images/chased-home-ui-design.png" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Custom SearchBar.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+## [Chased Home UI Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
+
+Xamarin.Forms UI sample.
+
+<img src="Images/xamarinPhotoStock.png" Width="600" />
 
 ### Platforms
 
@@ -38,7 +52,7 @@ Android, iOS.
 
 ## [XamUIDemo](https://github.com/ufukhawk/XamUIDemo)
 
-Xamarin.Forms Login Screen UI.
+Xamarin.Forms UI sample.
 
 <img src="Images/xamuilogin.png" Width="600" />
 
