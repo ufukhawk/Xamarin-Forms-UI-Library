@@ -1,5 +1,27 @@
 # Xamarin-Forms-UI-Library
 
+## [XamarinForms-Dark-Store-UI-Design](https://github.com/ufukhawk/DarkStore)
+
+Xamarin.Forms UI sample.
+
+<img src="https://imgur.com/WSsPoc1.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Blur Frame
+* Draw Path
+* CollectionView
+* BindableLayout
+* MVVM
+* Xamarin Forms 4.7
+
+### More information:
+- Source code: [https://github.com/ufukhawk/DarkStore](https://github.com/ufukhawk/DarkStore)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
+
 ## [XamarinForms-PhotoStock-UI-Design](https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design)
 
 Xamarin.Forms UI sample.
